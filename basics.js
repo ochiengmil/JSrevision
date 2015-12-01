@@ -139,9 +139,9 @@ function createContact(name,phoneNumber){
 
 }
 
-function makeTea(){
+// function makeTea(){
 
-}
+// }
 //Anonymous functions
 //This function should buy coffee
 // function(){
